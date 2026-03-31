@@ -1,0 +1,28 @@
+body {
+        background-color: lavender;
+            text-align: center;
+            }
+
+            h2 {
+                font-style: italic;
+                    font-size: 30px;       /* Changed from 'size' to 'font-size' */
+                        color: #f08080;
+                        }
+
+                        p {
+                            font-size: 20px;
+                            }
+
+                            /* Optional: Add these if you want to use the color classes mentioned in the lab manual */
+                            .blue {
+                                color: blue;
+                                }
+
+                                .red {
+                                    color: red;
+                                    }
+
+                                    .green {
+                                        color: green;
+                                        }
+
